@@ -1,1 +1,1 @@
-# elzero-JavaScript-assignments
+# Elzero JavaScript Assignments
